@@ -31,4 +31,4 @@
     ```
 ## Support
 
-Show some :heart: and star the repo to support the project. Demo version:- 
+Show some :heart: and star the repo to support the project. Demo version:- https://conqoll-assignment.netlify.app/
